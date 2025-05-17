@@ -2,60 +2,61 @@
 aminul01-g/aminul01-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- <h1 align="center">👋Hello, I'm Aminul Islam</h1> 
+
+<h1 align="center">👋 Hello, I'm Aminul Islam</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Good+Listener;Self+Learner"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=AI+Engineer;ML+Researcher;Problem+Solver;Self+Learner"><br>
 </p>
 
 <br>
-<p>Currently I'm a Computer Science & Engineering <b>(CSE)</b> Student. </p>
+<p>Currently I'm pursuing a B.Sc. in Computer Science & Engineering with a strong focus on Artificial Intelligence and Machine Learning.</p>
 <br>
-<p>🏡Living: Dhaka, Bangladesh</p><br>
+<p>🏡 Living: Dhaka, Bangladesh</p><br>
 
 ## 👨‍💼 About Me
-<p>Professionally I am a CS student. And I want to base myself as a computer engineer. So I have so much knowledge about Development and other works.
+I am an aspiring AI Engineer with a deep passion for solving real-world problems using cutting-edge technologies like NLP, computer vision, and generative AI. I aim to contribute to the future of AI through research, innovation, and impactful applications.
 
-In terms of technical skills, Developers are proficient in programming languages such as HTML, CSS, C Programming, C++, and JavaScript, as well as various frameworks and tools used for Development progress. I have a deep understanding of web design principles, user experience, and web performance optimization techniques.
+As a learner, I thrive in dynamic environments and am constantly exploring new frontiers in machine learning, deep learning, and data science. I combine practical development skills with academic curiosity and enjoy building intelligent systems and publishing meaningful research.
 
-Expert on:
-- HTML
-- CSS
-- C Programming
-- C++
-- Coding
-- WordPress
-- Elementor Pro
-- Data Entry
+### 🚀 Tech Stack & Interests:
+- **Languages**: Python, JavaScript, C++, C
+- **Frameworks**: PyTorch, TensorFlow, Scikit-learn, HuggingFace Transformers
+- **Tools**: Jupyter Notebook, VS Code, Git, Docker
+- **Cloud & Platforms**: Google Colab, Kaggle, GitHub, AWS (Basics)
+- **Core Areas**: NLP, LLMs, Computer Vision, Reinforcement Learning
+- **Methodologies**: Data Preprocessing, Feature Engineering, Model Training & Evaluation, Experiment Tracking, Deployment
 
-I am also highly detail-oriented and have a strong problem-solving mindset. I am able to analyze complex problems and develop effective solutions in a timely manner. I am comfortable working independently or as part of a team and am able to communicate effectively with both technical and non-technical stakeholders.
+## 🧠 AI Research & Projects
+- ✍️ Focused on publishing research papers in reputable AI/ML journals and conferences.
+- 📚 Currently exploring language models, prompt engineering, and multimodal AI.
+- 🧪 Passionate about building intelligent solutions from scratch.
 
-In terms of work experience, Developers may have experience in front-end development, back-end development, or full-stack development, depending on their areas of expertise. I have experience working with various content management systems, e-commerce platforms, and other Development tools.
+# 🎓 Education
+- B.Sc. in Computer Science & Engineering  
+  **Leading University (BUBT)**  
+  Dhaka, Bangladesh.
 
-Overall, I am passionate about my work, stay up-to-date with the latest trends and technologies, and am dedicated to delivering high-quality, user-friendly web solutions that meet the needs of my clients and users.</p>
+# 🌐 Languages
+- 🇧🇩 Bangla: Native  
+- 🏴 English: Advanced  
+- 🇮🇳 Hindi: Intermediate  
 
+# ⚽ Hobbies & Interests
+- 🧠 Reading AI papers, learning new technologies, coding challenges  
+- 🎮 Games: Chess, Cricket, Badminton  
+- 📺 Watching tech talks & AI documentaries  
 
+---
 
-# Education
- - B.Sc. in Computer Science & Engineering<br>
- Leading University <b>(BUBT)</b><br>
-Dhaka, Bangladesh.
+### 🔧 Tools, Platforms & Learning Resources
 
-# Language:
- - 🇧🇩 Bangla: Native
- - 🏴󠁧󠁢󠁥󠁮󠁧󠁿English: Advanced
- - 🇮🇳 Hindi : Intermediate
+(Your original list of badges is great for branding and visibility. Keep that section unchanged — it's already very comprehensive and visually appealing.)
 
-# Sports / Game / Activities / Hobby:
- - 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
- - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
- - 🖥️coding
+---
 
- --------------------------------
-   Thanks for going through my Portfolio. All rights reserved by Aminul Islam @2023
- --------------------------------
-
-<h2 align="center">Come again, "Tata"</h2>
+<h2 align="center">Thanks for visiting. Come again, "Tata" 👋</h2>
+<p align="center">All rights reserved by Aminul Islam @2025</p>
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
