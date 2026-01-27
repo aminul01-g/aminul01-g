@@ -4,7 +4,7 @@ aminul01-g/aminul01-g is a ✨ special ✨ repository because its `README.md` (t
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Aminul%20Islam%20Bhuiyan&fontSize=42&fontAlignY=32&desc=AI/ML%20Engineer%%20%7C%20%7C%20Building%20Intelligent%20Systems&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Aminul%20Islam%20Bhuiyan&fontSize=42&fontAlignY=32&desc=AI/ML Engineer%%20%7C%20%7C%20Building%20Intelligent%20Systems&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+/+ML+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;PyTorch+%7C+TensorFlow+%7C+Hugging+Face;Building+AI+That+Matters+%F0%9F%9A%80" alt="Typing SVG" />
 
