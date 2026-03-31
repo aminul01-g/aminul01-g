@@ -25,10 +25,10 @@ aminul01-g/aminul01-g is a ✨ special ✨ repository because its `README.md` (t
 ## 🎯 About Me
 
 ```python
-class AIEngineer:
+class AI_MLEngineer:
     def __init__(self):
         self.name = "Aminul Islam Bhuiyan"
-        self.role = "AI Engineering Student"
+        self.role = "AI/ML Engineering Student"
         self.location = "Bangladesh 🇧🇩"
         self.passion = ["Deep Learning", "NLP", "Computer Vision", "LLMs"]
         self.goal = "Build research-grade AI systems that solve real-world problems"
