@@ -130,6 +130,7 @@ class AI_MLEngineer:
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/aminul01-g/groq-langgraph-rag">Groq-LangGraph RAG Chatbot</a></h3>
       <img src="https://img.shields.io/badge/LLM-RAG_System-teal?style=flat-square" alt="RAG System" />
+      <img src="https://img.shields.io/badge/LangChain-Groq-blueviolet?style=flat-square" alt="LangChain Groq" />
       <img src="https://img.shields.io/badge/LangGraph-Groq-blueviolet?style=flat-square" alt="LangGraph Groq" />
       <br><br>
       <b>⚡ High-Performance AI Assistant</b>
