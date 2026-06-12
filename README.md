@@ -125,134 +125,123 @@ class AI_MLEngineer:
 </div>
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <!-- Row 1: Agentic & RAG Systems -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/aminul01-g/groq-langgraph-rag">Groq-LangGraph RAG Chatbot</a></h3>
+      <img src="https://img.shields.io/badge/LLM-RAG_System-teal?style=flat-square" alt="RAG System" />
+      <img src="https://img.shields.io/badge/LangGraph-Groq-blueviolet?style=flat-square" alt="LangGraph Groq" />
+      <br><br>
+      <b>⚡ High-Performance AI Assistant</b>
+      <ul>
+        <li>Intelligent router switching dynamically between Pinecone RAG and Tavily web search.</li>
+        <li>Advanced LangGraph orchestration for reliable multi-agent system state management.</li>
+        <li>Blazing fast Groq inference engine integration for near-zero latency responses.</li>
+      </ul>
+      <b>🛠️ Tech Stack:</b> <code>LangGraph</code> <code>Groq</code> <code>Pinecone</code> <code>Tavily API</code> <code>RAG</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/aminul01-g/krishi-bondhu">Krishi Bondhu (Farmer Assistant)</a></h3>
+      <img src="https://img.shields.io/badge/Agri--Tech-AI_Assistant-green?style=flat-square" alt="Agri-Tech" />
+      <img src="https://img.shields.io/badge/LangGraph-Groq-blueviolet?style=flat-square" alt="LangGraph Groq" />
+      <br><br>
+      <b>⚡ Smart Agricultural Intelligence</b>
+      <ul>
+        <li>Dual-mode routing optimized for localized farming datasets and real-time agricultural web search.</li>
+        <li>Advanced LangGraph workflow paired with high-speed Groq LLM inference.</li>
+        <li>Dynamic knowledge retrieval tailored for crop disease management, pest control, and farming insights.</li>
+      </ul>
+      <b>🛠️ Tech Stack:</b> <code>LangGraph</code> <code>Groq</code> <code>Vector DB</code> <code>Tavily API</code> <code>Agri-RAG</code>
+    </td>
+  </tr>
 
-### 🧬 [Diabetes Detection System](https://github.com/aminul01-g/Diabetes-Detection-System)
+  <!-- Row 2: AI Tools & Assistants -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/aminul01-g/IntelliReview">IntelliReview</a></h3>
+      <img src="https://img.shields.io/badge/DevOps-AI_Code_Reviewer-blue?style=flat-square" alt="DevOps" />
+      <img src="https://img.shields.io/badge/LLM-Automated_Feedback-orange?style=flat-square" alt="Automated Feedback" />
+      <br><br>
+      <b>⚡ Smart Static & Logical Code Analysis</b>
+      <ul>
+        <li>Seamless batch analysis supporting full multi-file uploads and complex repository folder structures.</li>
+        <li>Automated detection of syntactic bugs, logical code smells, and potential performance bottlenecks.</li>
+        <li>Context-aware software design pattern analysis with actionable, ready-to-merge optimization suggestions.</li>
+      </ul>
+      <b>🛠️ Tech Stack:</b> <code>LLM</code> <code>Code Review</code> <code>Static Analysis</code> <code>Multi-File Upload</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤓 <a href="https://github.com/aminul01-g/ai_study_assistent_with-API-">AI Study Assistant</a></h3>
+      <img src="https://img.shields.io/badge/LLM-Educational_AI-green?style=flat-square" alt="Educational LLM" />
+      <img src="https://img.shields.io/badge/Streamlit-Web_App-red?style=flat-square" alt="Streamlit Web App" />
+      <br><br>
+      <b>⚡ Intelligent Learning Companion</b>
+      <ul>
+        <li>Interactive AI-driven study mentor powered by LLM API prompting engineering.</li>
+        <li>Personalized quiz generation, summaries, and step-by-step topic breakdown capabilities.</li>
+        <li>Lightweight Streamlit UI for seamless interactive session management and feedback loops.</li>
+      </ul>
+      <b>🛠️ Tech Stack:</b> <code>Python</code> <code>LLM APIs</code> <code>Streamlit</code> <code>Prompt Engineering</code>
+    </td>
+  </tr>
 
-<img src="https://img.shields.io/badge/Machine_Learning-Medical_AI-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square" />
+  <!-- Row 3: Computer Vision & NLP -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👥 <a href="https://github.com/aminul01-g/people-flow-tracker-yolov8">People Flow Tracker</a></h3>
+      <img src="https://img.shields.io/badge/Computer_Vision-Object_Tracking-purple?style=flat-square" alt="Computer Vision" />
+      <img src="https://img.shields.io/badge/YOLOv8-ByteTrack-yellow?style=flat-square" alt="YOLOv8" />
+      <br><br>
+      <b>⚡ AI-Powered Surveillance System</b>
+      <ul>
+        <li>Real-time human detection and crowd flow tracking across customized security zones.</li>
+        <li>Interactive entry/exit monitoring with heatmaps and line-crossing counts.</li>
+        <li>State-of-the-art YOLOv8 object detection paired with ByteTrack multi-object tracker.</li>
+      </ul>
+      <b>🛠️ Tech Stack:</b> <code>YOLOv8</code> <code>ByteTrack</code> <code>OpenCV</code> <code>Python</code> <code>Object Tracking</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/aminul01-g/my-learning-hub/tree/main/07_DeepLearning/Next_Word_Prediction-LSTM">Next Word Prediction (LSTM)</a></h3>
+      <img src="https://img.shields.io/badge/NLP-Language_Modeling-brightgreen?style=flat-square" alt="NLP" />
+      <img src="https://img.shields.io/badge/LSTM-Implementation-red?style=flat-square" alt="LSTM" />
+      <br><br>
+      <b>⚡ Sequence-to-Sequence NLP Model</b>
+      <ul>
+        <li>Word-level Long Short-Term Memory (LSTM) network designed for next-token probability distribution.</li>
+        <li>Custom PyTorch pipeline containing tokenization, sequence padding, and tensor mapping.</li>
+        <li>Robust training workflow optimizing cross-entropy loss with early stopping and text generation.</li>
+      </ul>
+      <b>🛠️ Tech Stack:</b> <code>PyTorch</code> <code>LSTM</code> <code>NLP</code> <code>Word Embeddings</code>
+    </td>
+  </tr>
 
-**🔬 Medical AI Application**
-- Predicts diabetes using ML algorithms trained on Pima Indians dataset
-- Implements multiple classification models for comparison
-- Real-world healthcare application with high accuracy
-
-**Tech Stack:** `Python` `scikit-learn` `Pandas` `NumPy`
-
-</td>
-<td width="50%" valign="top">
-
-### 👔 [Fashion MNIST: NN vs CNN](https://github.com/aminul01-g/fashion-mnist-nn-vs-cnn)
-
-<img src="https://img.shields.io/badge/Deep_Learning-Computer_Vision-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/PyTorch-Implementation-orange?style=flat-square" />
-
-**🎯 Comparative Deep Learning Study**
-- Comprehensive comparison of Neural Networks vs CNNs
-- Fashion MNIST classification with detailed analysis
-- Performance metrics and visualization
-
-**Tech Stack:** `PyTorch` `Computer Vision` `Deep Learning`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 [Next Word Prediction (LSTM)](https://github.com/aminul01-g/Next_Word_Prediction-LSTM)
-
-<img src="https://img.shields.io/badge/NLP-Language_Modeling-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/LSTM-Implementation-red?style=flat-square" />
-
-**📝 Advanced NLP Implementation**
-- Word-level LSTM for sequence prediction
-- Custom PyTorch dataset creation
-- Text preprocessing and model inference pipeline
-
-**Tech Stack:** `PyTorch` `NLP` `LSTM` `Text Processing`
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 [People Flow Tracker (YOLOv8)](https://github.com/aminul01-g/people-flow-tracker-yolov8)
-
-<img src="https://img.shields.io/badge/Computer_Vision-Object_Tracking-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/YOLOv8-ByteTrack-yellow?style=flat-square" />
-
-**🎥 AI-Powered Surveillance System**
-- Real-time people counting and flow tracking
-- Entry/exit monitoring with heatmap visualization
-- YOLOv8 + ByteTrack integration
-
-**Tech Stack:** `YOLOv8` `ByteTrack` `OpenCV` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [Groq-LangGraph RAG Chatbot](https://github.com/aminul01-g/groq-langgraph-rag)
-
-<img src="https://img.shields.io/badge/LLM-RAG_System-teal?style=flat-square" />
-<img src="https://img.shields.io/badge/LangGraph-Groq-blueviolet?style=flat-square" />
-
-**⚡ High-Performance AI Assistant**
-- Intelligent router switching between RAG and web search
-- LangGraph orchestration with Groq inference
-- Pinecone vector database integration
-
-**Tech Stack:** `LangGraph` `Groq` `Pinecone` `Tavily` `RAG`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏡 [Ames Housing Prediction](https://github.com/aminul01-g/Predictive-Modeling-of-Ames-Housing-Data)
-
-<img src="https://img.shields.io/badge/ML-Regression-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Feature_Engineering-Advanced-blue?style=flat-square" />
-
-**📊 Advanced Regression Analysis**
-- Comprehensive feature engineering pipeline
-- Multiple model comparison and ensemble methods
-- Production-ready prediction system
-
-**Tech Stack:** `Python` `scikit-learn` `XGBoost` `Pandas`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤓 [AI Study Assistant](https://github.com/aminul01-g/aiStudyAssistant)
-
-<img src="https://img.shields.io/badge/LLM-Educational_AI-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Streamlit-Web_App-red?style=flat-square" />
-
-**🎓 Intelligent Learning Companion**
-- Personalized AI mentor powered by LLM APIs
-- Interactive study sessions and explanations
-- Streamlit-based user interface
-
-**Tech Stack:** `Python` `LLM APIs` `Streamlit` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚢 [Titanic Survival Predictor](https://github.com/aminul01-g/titanic-survival-app)
-
-<img src="https://img.shields.io/badge/ML-Classification-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Deployment-Streamlit-FF4B4B?style=flat-square" />
-
-**⚓ ML Web Application**
-- Interactive survival prediction interface
-- Real-time model inference
-- Feature importance visualization
-
-**Tech Stack:** `Python` `scikit-learn` `Streamlit` `Pandas`
-
-</td>
-</tr>
+  <!-- Row 4: Deep Learning & Explorations -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👔 <a href="https://github.com/aminul01-g/my-learning-hub/tree/main/07_DeepLearning/fashion-mnist-nn-vs-cnn">Fashion MNIST: NN vs CNN</a></h3>
+      <img src="https://img.shields.io/badge/Deep_Learning-Computer_Vision-blue?style=flat-square" alt="Deep Learning" />
+      <img src="https://img.shields.io/badge/PyTorch-Implementation-orange?style=flat-square" alt="PyTorch" />
+      <br><br>
+      <b>⚡ Comparative Deep Learning Study</b>
+      <ul>
+        <li>Comprehensive architecture benchmark comparing Multi-Layer Perceptrons and CNNs.</li>
+        <li>Evaluation of regularization techniques including dropout, batch normalization, and weight decay.</li>
+        <li>Rich visualizations of training/validation curves, confusion matrices, and misclassifications.</li>
+      </ul>
+      <b>🛠️ Tech Stack:</b> <code>PyTorch</code> <code>CNN</code> <code>Neural Networks</code> <code>Matplotlib</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/aminul01-g?tab=repositories">Explore More Projects</a></h3>
+      <img src="https://img.shields.io/badge/GitHub-Repositories-black?style=flat-square&logo=github" alt="GitHub" />
+      <br><br>
+      <b>⚡ Open Source & Research Contributions</b>
+      <ul>
+        <li>Ongoing repository developments focusing on Deep Learning, NLP, Computer Vision, and LLM applications.</li>
+        <li>Interested in collaborating on research-grade AI or deploying scalable ML/DL pipelines? Let's connect!</li>
+      </ul>
+      <b>👉 Visit my Repositories tab for full access!</b>
+    </td>
+  </tr>
 </table>
 
 ---
