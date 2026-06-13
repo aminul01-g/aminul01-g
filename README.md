@@ -251,12 +251,19 @@ class AI_MLEngineer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminul01-g&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminul01-g&layout=compact&langs_count=8&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=0D1117"/>
+![Profile Views](https://komarev.com/ghpvc/?username=aminul01-g&style=for-the-badge&color=00D9FF&labelColor=0D1117&label=PROFILE+VIEWS)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/aminul01-g?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/aminul01-g?tab=followers)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/aminul01-g?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=STARS)](https://github.com/aminul01-g)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminul01-g&theme=react&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=0D1117" alt="GitHub Streak"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminul01-g&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aminul01-g&theme=dark&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888&border=0D1117)](https://github.com/aminul01-g)
+
+<br/>
+
+[![Contribution Graph](https://ghchart.rshah.org/00D9FF/aminul01-g)](https://github.com/aminul01-g)
 
 </div>
 
