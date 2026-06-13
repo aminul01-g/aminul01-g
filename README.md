@@ -248,7 +248,7 @@ class AI_MLEngineer:
 ---
 ## 📊 GitHub Analytics
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminul01-g&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminul01-g&show_icons=true&theme=react&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminul01-g&layout=compact&langs_count=8&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=0D1117"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminul01-g&theme=react&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=0D1117" alt="GitHub Streak"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminul01-g&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
