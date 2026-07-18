@@ -56,9 +56,7 @@ I'm a Computer Science & Engineering student from Bangladesh 🇧🇩 focused on
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminul01-g&theme=github_dark" alt="GitHub stats"/>
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul01-g&theme=github_dark" alt="Top languages"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminul01-g&theme=react&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border=0D1117" alt="GitHub Streak"/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aminul01-g&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
